@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Task-01</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="type">type</string>
+    <string name="address">address</string>
+    <string name="error_massage">Error Massage</string>
 </resources>
